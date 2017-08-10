@@ -31,6 +31,16 @@ html {
     border-bottom-left-radius: 44px;
     border-bottom-right-radius: 44px;
 }
+#bottleCap {
+    width: 46px;
+    height: 26px;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 37px;
+    position: fixed;
+    z-index: 12;
+}
 .circle {
     width: 30px;
     height: 30px;
@@ -76,7 +86,7 @@ html {
     margin-left: -95px;
     z-index: 9;
 }
-#bottomBox1{
+#bottomBox1 {
     width: 103px;
     height: 200px;
     background-color: lightgray;
@@ -85,7 +95,7 @@ html {
     margin-left: -95px;
     z-index: 9;
 }
-#bottomBox2{
+#bottomBox2 {
     width: 103px;
     height: 200px;
     background-color: lightgray;
