@@ -1,0 +1,96 @@
+body,
+html {
+    background-color: #f2f2f2;
+}
+.main-content {
+    background-color: lightgray;
+    padding: 50px;
+    margin: 50px;
+    height: 600px;
+}
+#bottleUpper {
+    width: 40px;
+    height: 150px;
+    background-color: gray;
+    margin-left: 40px;
+    margin-top: 10px;
+    position: fixed;
+    z-index: 10;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#bottleLower {
+    width: 120px;
+    height: 310px;
+    background-color: gray;
+    border-top-left-radius: 180px;
+    border-top-right-radius: 180px;
+    margin-top: 155px;
+    position: fixed;
+    z-index: 10;
+    border-bottom-left-radius: 44px;
+    border-bottom-right-radius: 44px;
+}
+.circle {
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    background-color: lightgray;
+    border-radius: 20px;
+    z-index: 10;
+}
+.box {
+    width: 10px;
+    height: 15px;
+    position: fixed;
+    background-color: gray;
+    z-index: 9;
+}
+#bottle {
+    margin-left: 300px;
+}
+#topCricle1 {
+    margin-top: 134px;
+    margin-left: 10px;
+}
+#topCricle2 {
+    margin-top: 134px;
+    margin-left: 80px;
+}
+#topBox1 {
+    margin-left: 30px;
+    margin-top: 150px;
+}
+#topBox2 {
+    margin-left: 80px;
+    margin-top: 150px;
+}
+#bottomCircle {
+    width: 310px;
+    height: 162px;
+    border-bottom-left-radius: 180px;
+    border-bottom-right-radius: 180px;
+    background-color: gray;
+    position: fixed;
+    margin-top: 311px;
+    margin-left: -95px;
+    z-index: 9;
+}
+#bottomBox1{
+    width: 103px;
+    height: 200px;
+    background-color: lightgray;
+    position: fixed;
+    margin-top: 311px;
+    margin-left: -95px;
+    z-index: 9;
+}
+#bottomBox2{
+    width: 103px;
+    height: 200px;
+    background-color: lightgray;
+    position: fixed;
+    margin-top: 311px;
+    margin-left: 112px;
+    z-index: 9;
+}
