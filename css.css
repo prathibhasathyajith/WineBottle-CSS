@@ -16,8 +16,8 @@ html {
     margin-top: 10px;
     position: fixed;
     z-index: 10;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 #bottleLower {
     width: 120px;
