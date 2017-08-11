@@ -10,10 +10,10 @@ html {
 }
 #bottleUpper {
     width: 40px;
-    height: 150px;
-    background-color: gray;
+    height: 120px;
+    background: linear-gradient(to right, #131313 0%,#1c1c1c 9%,#2b2b2b 24%,#111111 35%,#000000 40%,#2c2c2c 46%,#2c2c2c 46%,#474747 61%,#666666 75%,#595959 88%,#4c4c4c 100%);
     margin-left: 40px;
-    margin-top: 10px;
+    margin-top: 40px;
     position: fixed;
     z-index: 10;
     border-top-left-radius: 10px;
@@ -22,7 +22,7 @@ html {
 #bottleLower {
     width: 120px;
     height: 310px;
-    background-color: gray;
+    background: linear-gradient(to right, #131313 0%,#1c1c1c 9%,#2b2b2b 24%,#111111 35%,#000000 40%,#2c2c2c 46%,#2c2c2c 46%,#474747 61%,#666666 75%,#595959 88%,#4c4c4c 100%);
     border-top-left-radius: 180px;
     border-top-right-radius: 180px;
     margin-top: 155px;
@@ -36,7 +36,7 @@ html {
     height: 26px;
     background-color: gray;
     border-radius: 5px;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: 37px;
     position: fixed;
     z-index: 12;
@@ -53,7 +53,7 @@ html {
     width: 10px;
     height: 15px;
     position: fixed;
-    background-color: gray;
+    background-color: #131313;
     z-index: 9;
 }
 #bottle {
@@ -74,17 +74,18 @@ html {
 #topBox2 {
     margin-left: 80px;
     margin-top: 150px;
+    background-color: #4c4c4c;
 }
 #bottomCircle {
     width: 310px;
     height: 162px;
     border-bottom-left-radius: 180px;
     border-bottom-right-radius: 180px;
-    background-color: gray;
+    background: linear-gradient(to right, #131313 5%,#1c1c1c 22%,#2b2b2b 41%,#111111 45%,#000000 28%,#2c2c2c 49%,#2c2c2c 4%,#474747 54%,#666666 60%,#595959 63%,#4c4c4c 74%);
     position: fixed;
     margin-top: 311px;
     margin-left: -95px;
-    z-index: 9;
+    z-index:9;
 }
 #bottomBox1 {
     width: 103px;
