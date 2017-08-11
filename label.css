@@ -2,7 +2,8 @@
     width: 120px;
     height: 127px;
     /*    background-color: rgb(140, 140, 140);*/
-    background: linear-gradient(to right, rgba(84, 94, 94, 1) 0%, rgba(126, 140, 141, 1) 17%, rgba(147, 165, 165, 1) 60%, rgba(147, 165, 165, 1) 83%, rgba(126, 140, 141, 1) 100%);
+/*    background: linear-gradient(to right, rgba(84, 94, 94, 1) 0%, rgba(126, 140, 141, 1) 17%, rgba(147, 165, 165, 1) 60%, rgba(147, 165, 165, 1) 83%, rgba(126, 140, 141, 1) 100%);*/
+    background: linear-gradient(to right, #4C0000 0%, #a21f25 31%, #a31f24 41%, #c43c40 49%, #c54a4d 58%, #c54a4d 84%, #c43c40 93%, #af2a2d 96%, #aa2229 100%);
     border-radius: 78px/5px;
     margin-top: 230px;
     position: fixed;
@@ -13,7 +14,7 @@
 #label3 {
     width: 120px;
     height: 107px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-image: url(img/flowers.png);
     border-radius: 78px/5px;
     margin-top: 240px;
     position: fixed;

@@ -4,9 +4,9 @@ html {
 }
 .main-content {
     background-color: lightgray;
-    padding: 50px;
+    padding: 20px;
     margin: 50px;
-    height: 600px;
+    height: 550px;
 }
 #bottleUpper {
     width: 40px;
@@ -57,7 +57,7 @@ html {
     z-index: 9;
 }
 #bottle {
-    margin-left: 300px;
+    margin-left: 260px;
 }
 #topCricle1 {
     margin-top: 134px;
@@ -74,7 +74,6 @@ html {
 #topBox2 {
     margin-left: 80px;
     margin-top: 150px;
-    background-color: #4c4c4c;
 }
 #bottomCircle {
     width: 310px;

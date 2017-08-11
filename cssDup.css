@@ -61,3 +61,15 @@
     position: fixed;
     z-index: 13;
 }
+#topBoxBottle {
+    width: 40px;
+    height: 15px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 40%, rgba(0, 0, 0, 0) 100%);
+    margin-left: 40px;
+    margin-top: 145px;
+    position: fixed;
+    z-index: 16;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
