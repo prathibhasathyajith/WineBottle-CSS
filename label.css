@@ -20,6 +20,9 @@
     position: fixed;
     z-index: 15;
     margin-left: 0px;
+    color: white;
+    font-size: 9px;
+    letter-spacing: 1px;
 }
 #label2 {
     opacity: 0.8;
